@@ -1,5 +1,5 @@
 # Exercicios introdução ao Python 
-  Python 3 - Curso em Vide
+  Python 3 - Curso em Video
 
 Curso criado pelo Prof. Gustavo Guanabara com uma temática divertida de vídeo-game para motivar seus alunos, é dividido em mundos para facilitar o estudo.
 
